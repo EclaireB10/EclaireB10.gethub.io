@@ -1,0 +1,63 @@
+body {
+  background-color: lightgreen;
+}
+
+h1 {
+  text-align:center ;
+}
+
+h2 {
+  text-align:center ;
+}
+
+h3 {
+  text-align:center ;
+}
+
+#wrapper{
+   width:80%;
+  margin: auto;
+background-color: coral;
+box-shadow: 2px 2px;
+}
+
+div{
+  width:90%;
+ margin: auto; 
+}
+
+.itembox{
+  border-style: dotted;
+border-radius: 25px;
+box-shadow: 2px 2px;
+background-color: rosybrown;
+color:purple ;
+padding:5px;
+}
+
+.favorite{
+  border-style: dotted;
+  border-radius: 25px;
+box-shadow: 2px 2px;
+background-color:darkolivegreen;
+color: limegreen;
+}
+
+#topbox{
+   list-style-type: none;
+  margin: 2px;
+  padding: 3px;
+  overflow: hidden;
+  background-color:darkred;
+  display: inline;
+  border-radius:5px;
+}
+atopbox{list-style-type: none;
+  margin: 2px;
+  padding: 3px;
+  overflow: hidden;
+  background-color:red;
+  display: inline;
+  border-radius:5px;
+
+}
