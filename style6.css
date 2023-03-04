@@ -1,0 +1,28 @@
+body {
+  background-image: url("project6/background mist.jpg");
+  background-color: darkblue;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+#wrapper{
+   width:60%
+ margin: auto;
+ margin-top: 30px;
+ 
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+#borderimg{
+   background: url("project6/border\image.jpg");
+   background-color: blue;
+  color:orange;
+}
+ul
+{
+  list-style-image:url("project6/babyfish.png");
+}
+#shark{
+  height: 300px;
+}
